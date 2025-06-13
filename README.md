@@ -1,4 +1,4 @@
-# ⚖️ CodeForge - Online Judge Platform
+# ⚖️ CodeForge – Real-Time Online Code Evaluation Platform
 
 CodeForge is a full-stack online judge platform built with the MERN stack. It enables users to submit code solutions for various programming problems, evaluate correctness via Docker-based secure execution, and receive real-time verdicts. Ideal for practice, scoring, and performance tracking.
 
