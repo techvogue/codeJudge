@@ -1,12 +1,13 @@
 # ⚖️ CodeForge – Real-Time Online Code Evaluation Platform
 
-CodeForge is a full-stack online judge platform built with the MERN stack. It enables users to submit code solutions for various programming problems, evaluate correctness via Docker-based secure execution, and receive real-time verdicts. Ideal for practice, scoring, and performance tracking.
+CodeForge is a full-stack, real-time code evaluation platform built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It allows users to submit code solutions for various programming problems, evaluate them securely using Docker-based execution, and receive instant verdicts.  
+It is ideal for practicing coding problems, tracking performance, and building competitive programming skills.
 
 ---
 
 ## 🧩 Problem Statement
 
-A web-based online judge system that takes user-submitted code for a given problem, runs it against predefined test cases, and returns a verdict indicating whether the solution is correct.
+Build a secure, web-based online judge system that accepts user-submitted code for specific problems, runs it against predefined test cases, and returns verdicts such as `Accepted`, `Wrong Answer`, or `Time Limit Exceeded`.
 
 ---
 
@@ -86,11 +87,14 @@ A web-based online judge system that takes user-submitted code for a given probl
 ---
 
 ## 📁 Folder Structure
+```bash
 CodeForge/
-├── client/ # React.js frontend
-├── backend/ # Node.js + Express API
-├── compiler/ # Docker-based code execution
-└── README.m/
+├── client/      # React.js frontend
+├── backend/     # Node.js + Express API
+├── compiler/    # Docker-based code execution
+└── README.md    # Project documentation
+```
+
 
 ---
 
