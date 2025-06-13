@@ -62,14 +62,14 @@ DevDecider is a full-stack online judge platform designed using the MERN stack. 
 - Custom isolation for the judge using Docker to ensure security and prevent unauthorized access.
 
 ## Deployment
-- **Frontend**: Deployed on Vercel - [DevDecider Frontend](https://online-judge-final.vercel.app/)
+- **Frontend**: Deployed on Vercel - [DevDecider Frontend](https://code-judge-57.vercel.app)
 - **Backend and Compiler**: Hosted on AWS
 
 ## Credits
 - Credits to mentors from AlogoUniversity for guidance and support.
 
 ## Contact Information
-For inquiries or support, please contact: kprateek283@gmail.com
+For inquiries or support, please contact: vishwagautam57@gmail.com
 
 ---
 
